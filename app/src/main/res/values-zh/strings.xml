@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="user_agreement">用户协议</string>
+    <string name="refuse">拒绝</string>
+    <string name="allow">允许</string>
+    <string name="next">下一个</string>
+    <string name="previous">上一个</string>
+    <string name="launch_mode">启动模式</string>
+    <string name="read_and_write_permission_denied">读写权限被拒绝</string>
+    <string name="read_permission_denied">读取权限被拒绝</string>
+    <string name="write_permission_denied">写入权限被拒绝</string>
+    <string name="root_permission_denied">Root 权限被拒绝</string>
+</resources>

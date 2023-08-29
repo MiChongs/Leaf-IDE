@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_language">zh</string>
+    <string name="sdcard">外部存储</string>
+    <string name="storage">内部存储</string>
+    <string name="launch_mode_external">从外部存储启动</string>
+    <string name="launch_mode_internal">从内部存储启动</string>
+    <string name="launch_mode_external_description">将工程文件存放到外部存储</string>
+    <string name="launch_mode_internal_description">将工程文件存放到内部存储</string>
+    <string name="launch_mode_introduction">启动模式介绍</string>
+    <string name="launch_mode_root">以 Root 身份启动</string>
+    <string name="root">Root 身份</string>
+    <string name="launch_mode_root_description">将工程文件存储到 adb 目录</string>
+</resources>

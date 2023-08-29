@@ -1,0 +1,13 @@
+<resources>
+    <string name="current_language">en</string>
+    <string name="sdcard">External Storage</string>
+    <string name="storage">Internal Storage</string>
+    <string name="launch_mode_external">Launch From External Storage</string>
+    <string name="launch_mode_internal">Launch From Internal Storage</string>
+    <string name="launch_mode_external_description">Save project files to external storage</string>
+    <string name="launch_mode_internal_description">Save project files to internal storage</string>
+    <string name="launch_mode_introduction">Launch Mode Introduction</string>
+    <string name="launch_mode_root">Launch As Root</string>
+    <string name="root">Root</string>
+    <string name="launch_mode_root_description">Save project files to the adb directory</string>
+</resources>
